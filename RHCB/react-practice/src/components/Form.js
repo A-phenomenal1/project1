@@ -6,7 +6,7 @@ function Form() {
   //   const [passYr, setPassYr] = useState("");
   //   const [pass, setpass] = useState("");
 
-  const passYr = useRef(2000);
+  const passYr = useRef("");
   const password = useRef("");
 
   return (
